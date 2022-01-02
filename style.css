@@ -91,7 +91,7 @@ h1 {
 .welcome {
     padding-top: 10px;
     padding-bottom: 75px;
-    background: #030303 url(/assets/img/monaLisa.png) calc(50% + 218px) no-repeat;
+    background: #030303 url(assets/img/monaLisa.png) calc(50% + 218px) no-repeat;
     min-height: 750px;
 }
 .welcome__title {
